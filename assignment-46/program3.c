@@ -1,4 +1,4 @@
-// write application which accepts file name from the user and read all the data from that file and displaycontent on the screen
+// write application which accepts file name from the user and read all the data from that file and display content on the screen
 
 #include <stdio.h>
 #include <stdlib.h>
